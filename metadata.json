@@ -1,10 +1,7 @@
 {
-    "chainId": Mainnet,
-    "address": "6SCLShf9tJhjDCSBAoWK8VLg9RD83U7fJymd2mSfY4G3",
-    "symbol": "GRNYS",
     "name": "Greenys",
-    "decimals": 9,
-    "logoURI": "https://github.com/greenystoken/metadata/blob/main/logo.jpg?raw=true",
-    "supply": "1000000000",
-    "description": ""
+    "symbol": "GRNYS",
+    "image": "https://github.com/greenystoken/metadata/blob/main/logo.jpg?raw=true",
+    "uri": "https://arweave.net/nY-ItgPJyR680ossUiOGQuPO6r7AO9CgjkAu2lvVfWM",
+    "description": "Eat your greenys!"
 }
