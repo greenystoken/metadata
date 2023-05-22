@@ -3,8 +3,8 @@
     "address": "6SCLShf9tJhjDCSBAoWK8VLg9RD83U7fJymd2mSfY4G3",
     "symbol": "GRNYS",
     "name": "Greenys",
-    "decimals": 1000000000,
+    "decimals": 9,
     "logoURI": "https://github.com/greenystoken/metadata/blob/main/logo.jpg?raw=true",
-    "supply": "9",
+    "supply": "1000000000",
     "description": ""
 }
