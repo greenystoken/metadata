@@ -1,6 +1,10 @@
 {
-  "name": "Greenys",
-  "symbol": "GRNYS",
-  "description": "Eat your greenys!",
-  "image": "https://github.com/greenystoken/metadata/blob/main/logo.jpg"
+    "chainId": Mainnet,
+    "address": "6SCLShf9tJhjDCSBAoWK8VLg9RD83U7fJymd2mSfY4G3",
+    "symbol": "GRNYS",
+    "name": "Greenys",
+    "decimals": 1000000000,
+    "logoURI": "https://github.com/greenystoken/metadata/blob/main/logo.jpg?raw=true",
+    "supply": "9",
+    "description": ""
 }
